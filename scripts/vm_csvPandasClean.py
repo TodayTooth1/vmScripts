@@ -1,7 +1,8 @@
 from pathlib import Path
 import pandas as pd
 
-csv_path = Path(r"C:\Users\rming\Documents\GitHub\vmScripts\data\postfire_scripted.csv")
+base_Dir = Path.cwd().parent
+csv_path = base_Dir / "data" / "postfire_scripted.csv"
 
 df = pd.read_csv(csv_path)
 
