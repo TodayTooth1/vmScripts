@@ -1,8 +1,8 @@
 from pathlib import Path
 import pandas as pd
 
-base_Dir = Path.cwd().parent
-csv_path = base_Dir / "data" / "postfire_scripted.csv"
+base_Dir = Path.cwd().parent #Represents base directory
+csv_path = base_Dir / "data" / "postfire_scripted.csv" #Represents desired csv file
 
 df = pd.read_csv(csv_path)
 
