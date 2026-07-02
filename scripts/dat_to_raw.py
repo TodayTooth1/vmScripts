@@ -1,3 +1,5 @@
+#This script is used to convert an ESRI ArcGIS Pro DEM raster .dat file into a .raw file used in Unity. 
+
 import numpy as np
 
 input_file = r"E:\prototype\datfiles\paradiseDEM.dat"
