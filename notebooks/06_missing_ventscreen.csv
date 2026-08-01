@@ -1,0 +1,1021 @@
+"INCIDENTNAME","DAMAGE","total","missing_ventscreen"
+"Silver","No Damage",5,5
+"Clover","Destroyed (>50%)",207,207
+"Clover","Major (25-50%)",11,11
+"Clover","Minor (10-25%)",3,3
+"Clover","No Damage",1,1
+"Cocos","Destroyed (>50%)",43,43
+"Cocos","Major (25-50%)",6,6
+"Black","Destroyed (>50%)",11,11
+"Boles","Destroyed (>50%)",242,0
+"Boles","Major (25-50%)",1,0
+"Boles","Minor (10-25%)",7,0
+"Round","Destroyed (>50%)",53,52
+"Round","Minor (10-25%)",6,5
+"Rocky","Affected (>0-10%)",2,1
+"Rocky","Destroyed (>50%)",98,31
+"Rocky","Minor (10-25%)",7,3
+"Butte","Affected (>0-10%)",25,4
+"Butte","Destroyed (>50%)",928,25
+"Butte","Major (25-50%)",5,1
+"Butte","Minor (10-25%)",6,1
+"Tassajara","Affected (>0-10%)",1,0
+"Tassajara","Destroyed (>50%)",18,0
+"Erskine","Affected (>0-10%)",15,5
+"Erskine","Destroyed (>50%)",388,192
+"Erskine","Major (25-50%)",2,1
+"Erskine","Minor (10-25%)",4,2
+"Soberanes","Destroyed (>50%)",69,43
+"Soberanes","Major (25-50%)",1,1
+"Soberanes","Minor (10-25%)",3,2
+"Goose","Destroyed (>50%)",9,0
+"Goose","Minor (10-25%)",1,0
+"Chimney","Affected (>0-10%)",5,1
+"Chimney","Destroyed (>50%)",70,16
+"Chimney","Major (25-50%)",1,1
+"Chimney","Minor (10-25%)",2,2
+"Clayton","Affected (>0-10%)",8,0
+"Clayton","Destroyed (>50%)",300,56
+"Clayton","Major (25-50%)",8,0
+"Clayton","Minor (10-25%)",11,4
+"Grade","Affected (>0-10%)",1,0
+"Grade","Destroyed (>50%)",10,2
+"Owens River","Destroyed (>50%)",7,0
+"Loma","Destroyed (>50%)",28,4
+"Loma","Major (25-50%)",1,0
+"Fay","Destroyed (>50%)",1,0
+"Alamo","Affected (>0-10%)",1,0
+"Alamo","Destroyed (>50%)",14,2
+"Wall","Affected (>0-10%)",5,1
+"Wall","Destroyed (>50%)",93,16
+"Wall","Major (25-50%)",2,0
+"Wall","Minor (10-25%)",1,0
+"Whittier","Affected (>0-10%)",5,0
+"Whittier","Destroyed (>50%)",40,0
+"Whittier","Major (25-50%)",1,0
+"Whittier","Minor (10-25%)",1,0
+"Stone","Destroyed (>50%)",3,1
+"Garza","Destroyed (>50%)",1,0
+"Detwiler","Affected (>0-10%)",14,2
+"Detwiler","Destroyed (>50%)",134,18
+"Detwiler","Major (25-50%)",2,0
+"Detwiler","Minor (10-25%)",5,1
+"Laverne","Affected (>0-10%)",4,0
+"Laverne","Destroyed (>50%)",27,0
+"Laverne","Minor (10-25%)",1,0
+"Spenceville","Destroyed (>50%)",5,1
+"Spenceville","Minor (10-25%)",1,0
+"Foothill","Destroyed (>50%)",4,0
+"Foothill","Minor (10-25%)",1,0
+"Calgary","Affected (>0-10%)",1,0
+"Calgary","Destroyed (>50%)",8,0
+"Calgary","No Damage",1,0
+"Ponderosa","Destroyed (>50%)",56,1
+"Ponderosa","No Damage",4,0
+"Railroad","Affected (>0-10%)",1,0
+"Railroad","Destroyed (>50%)",8,0
+"Helena","Affected (>0-10%)",3,1
+"Helena","Destroyed (>50%)",131,62
+"Helena","Major (25-50%)",1,1
+"Helena","Minor (10-25%)",4,1
+"Pleasant","Affected (>0-10%)",1,1
+"Pleasant","Destroyed (>50%)",1,0
+"Miller","Destroyed (>50%)",5,5
+"Cathedral","Destroyed (>50%)",3,0
+"Mission","Affected (>0-10%)",3,0
+"Mission","Destroyed (>50%)",7,1
+"Mission","Minor (10-25%)",1,0
+"Peak","Destroyed (>50%)",6,0
+"Estate","Affected (>0-10%)",1,0
+"Estate","Destroyed (>50%)",3,0
+"Estate","Minor (10-25%)",1,0
+"Estate","No Damage",10,1
+"Canyon","Destroyed (>50%)",17,0
+"Canyon","Minor (10-25%)",5,0
+"Timm","Minor (10-25%)",1,0
+"Atlas","Affected (>0-10%)",85,0
+"Atlas","Destroyed (>50%)",787,0
+"Atlas","Major (25-50%)",10,0
+"Atlas","Minor (10-25%)",21,0
+"Atlas","No Damage",469,0
+"Cascade","Affected (>0-10%)",4,4
+"Cascade","Destroyed (>50%)",264,118
+"Cascade","Major (25-50%)",3,2
+"Cascade","Minor (10-25%)",3,3
+"Nuns","Affected (>0-10%)",117,0
+"Nuns","Destroyed (>50%)",1367,0
+"Nuns","Major (25-50%)",15,0
+"Nuns","Minor (10-25%)",28,0
+"Nuns","No Damage",27,0
+"Redwood","Affected (>0-10%)",20,1
+"Redwood","Destroyed (>50%)",544,18
+"Redwood","Major (25-50%)",7,1
+"Redwood","Minor (10-25%)",9,3
+"Sulphur","Affected (>0-10%)",6,1
+"Sulphur","Destroyed (>50%)",162,8
+"Sulphur","Major (25-50%)",2,0
+"Tubbs","Affected (>0-10%)",186,0
+"Tubbs","Destroyed (>50%)",5656,0
+"Tubbs","Major (25-50%)",32,0
+"Tubbs","Minor (10-25%)",75,0
+"Tubbs","No Damage",74,0
+"Canyon 2","Affected (>0-10%)",19,0
+"Canyon 2","Destroyed (>50%)",29,0
+"Canyon 2","Major (25-50%)",8,0
+"Canyon 2","Minor (10-25%)",24,0
+"Cherokee","Destroyed (>50%)",6,6
+"Cherokee","Minor (10-25%)",1,1
+"Laporte","Destroyed (>50%)",74,35
+"Laporte","Minor (10-25%)",2,0
+"Lobo","Destroyed (>50%)",48,6
+"Lobo","Major (25-50%)",1,1
+"Lobo","Minor (10-25%)",2,0
+"McCourtney","Destroyed (>50%)",13,6
+"McCourtney","Minor (10-25%)",1,0
+"Pocket","Affected (>0-10%)",1,0
+"Pocket","Destroyed (>50%)",6,0
+"Pocket","Minor (10-25%)",1,0
+"Pocket","No Damage",2,0
+"Thirty Seven","Destroyed (>50%)",3,0
+"Thirty Seven","Minor (10-25%)",1,0
+"Bear","Destroyed (>50%)",6,5
+"Bear","No Damage",18,18
+"Thomas","Affected (>0-10%)",146,0
+"Thomas","Destroyed (>50%)",1091,0
+"Thomas","Major (25-50%)",39,0
+"Thomas","Minor (10-25%)",70,0
+"Thomas","No Damage",19,0
+"Skirball","Affected (>0-10%)",6,0
+"Skirball","Destroyed (>50%)",10,0
+"Skirball","Major (25-50%)",3,0
+"Skirball","Minor (10-25%)",3,0
+"Skirball","No Damage",68,0
+"Lilac","Affected (>0-10%)",35,0
+"Lilac","Destroyed (>50%)",159,0
+"Lilac","Major (25-50%)",5,0
+"Lilac","Minor (10-25%)",24,0
+"Grant","Destroyed (>50%)",1,0
+"Frazier","Destroyed (>50%)",1,0
+"Frazier","Minor (10-25%)",1,0
+"Ruby","Destroyed (>50%)",3,0
+"Pawnee","Affected (>0-10%)",3,0
+"Pawnee","Destroyed (>50%)",22,0
+"Pawnee","Minor (10-25%)",3,0
+"Pawnee","No Damage",1,0
+"Stoll","Affected (>0-10%)",4,0
+"Stoll","Destroyed (>50%)",24,0
+"Stoll","Major (25-50%)",2,0
+"Horse","Destroyed (>50%)",2,0
+"Hyatt","Destroyed (>50%)",4,0
+"Hyatt","No Damage",1,0
+"Ridge","Affected (>0-10%)",1,0
+"Waverly","Destroyed (>50%)",1,0
+"County","Affected (>0-10%)",3,0
+"County","Destroyed (>50%)",31,0
+"County","Major (25-50%)",1,0
+"County","No Damage",95,0
+"Nicolaus","Affected (>0-10%)",1,0
+"Colusa","Destroyed (>50%)",1,0
+"Klamathon","Affected (>0-10%)",7,0
+"Klamathon","Destroyed (>50%)",83,0
+"Klamathon","Major (25-50%)",2,0
+"Klamathon","Minor (10-25%)",3,0
+"Holiday","Destroyed (>50%)",24,0
+"Holiday","Major (25-50%)",2,0
+"Holiday","Minor (10-25%)",1,0
+"Irish","Affected (>0-10%)",1,0
+"Irish","Destroyed (>50%)",1,0
+"West","Affected (>0-10%)",8,0
+"West","Destroyed (>50%)",48,0
+"West","Major (25-50%)",4,0
+"West","Minor (10-25%)",2,0
+"West","No Damage",2,0
+"Vista","No Damage",13,0
+"Spring","Destroyed (>50%)",2,0
+"Carder","Destroyed (>50%)",1,0
+"Carr","Affected (>0-10%)",212,0
+"Carr","Destroyed (>50%)",1611,0
+"Carr","Major (25-50%)",28,0
+"Carr","Minor (10-25%)",39,0
+"Cranston","Affected (>0-10%)",3,0
+"Cranston","Destroyed (>50%)",12,0
+"Cranston","Major (25-50%)",1,0
+"Cranston","Minor (10-25%)",1,0
+"Marsh","Destroyed (>50%)",1,0
+"Ranch","Affected (>0-10%)",12,0
+"Ranch","Destroyed (>50%)",253,0
+"Ranch","Major (25-50%)",8,0
+"Ranch","Minor (10-25%)",7,0
+"River","Affected (>0-10%)",22,0
+"River","Destroyed (>50%)",189,0
+"River","Minor (10-25%)",9,0
+"Steele","Affected (>0-10%)",4,0
+"Steele","Destroyed (>50%)",8,0
+"Omega","Affected (>0-10%)",3,0
+"Omega","Destroyed (>50%)",1,0
+"Omega","Minor (10-25%)",3,0
+"Omega","No Damage",1,0
+"Delta","Affected (>0-10%)",1,0
+"Delta","Destroyed (>50%)",42,0
+"Delta","Major (25-50%)",1,0
+"Delta","Minor (10-25%)",2,0
+"Wagner","Destroyed (>50%)",7,0
+"Holy","Affected (>0-10%)",17,0
+"Holy","Destroyed (>50%)",24,0
+"Holy","Minor (10-25%)",1,0
+"Holy","No Damage",1,0
+"Meyers","Destroyed (>50%)",4,0
+"Richmond","Destroyed (>50%)",1,0
+"Silver","Destroyed (>50%)",53,52
+"Camp","Affected (>0-10%)",626,0
+"Camp","Destroyed (>50%)",18804,0
+"Camp","Major (25-50%)",27,0
+"Camp","Minor (10-25%)",101,0
+"Camp","No Damage",4066,0
+"Hill","Affected (>0-10%)",1,0
+"Hill","Destroyed (>50%)",13,7
+"Hill","Major (25-50%)",1,0
+"Woolsey","Affected (>0-10%)",236,0
+"Woolsey","Destroyed (>50%)",1643,0
+"Woolsey","Major (25-50%)",62,0
+"Woolsey","Minor (10-25%)",66,0
+"High","Destroyed (>50%)",1,0
+"Sand","Destroyed (>50%)",4,0
+"Pablo","Destroyed (>50%)",1,0
+"Trinity","Destroyed (>50%)",1,0
+"Aborn","Destroyed (>50%)",1,0
+"Mines","Destroyed (>50%)",1,0
+"Rimrock","Destroyed (>50%)",1,0
+"Mountain","Affected (>0-10%)",89,0
+"Mountain","Destroyed (>50%)",261,0
+"Mountain","Major (25-50%)",14,0
+"Mountain","Minor (10-25%)",30,0
+"Mountain","No Damage",1499,0
+"Red Bank","Destroyed (>50%)",2,0
+"Swedes","Destroyed (>50%)",2,0
+"Swedes","Major (25-50%)",1,0
+"Swedes","No Damage",8,0
+"Saddleridge","Affected (>0-10%)",69,0
+"Saddleridge","Destroyed (>50%)",24,0
+"Saddleridge","Inaccessible",7,0
+"Saddleridge","Major (25-50%)",6,0
+"Saddleridge","Minor (10-25%)",16,0
+"Sandalwood","Affected (>0-10%)",10,0
+"Sandalwood","Destroyed (>50%)",73,0
+"Sandalwood","Minor (10-25%)",6,0
+"Sandalwood","No Damage",31,0
+"Kincade","Affected (>0-10%)",40,0
+"Kincade","Destroyed (>50%)",374,0
+"Kincade","Major (25-50%)",6,0
+"Kincade","Minor (10-25%)",14,0
+"Kincade","No Damage",1134,0
+"Tick","Affected (>0-10%)",26,0
+"Tick","Destroyed (>50%)",29,0
+"Tick","Major (25-50%)",9,0
+"Tick","Minor (10-25%)",11,0
+"Getty","Affected (>0-10%)",16,0
+"Getty","Destroyed (>50%)",13,0
+"Getty","Inaccessible",10,0
+"Getty","Major (25-50%)",2,0
+"Getty","Minor (10-25%)",1,0
+"46th","Affected (>0-10%)",4,0
+"46th","Destroyed (>50%)",7,0
+"46th","Inaccessible",3,0
+"46th","Major (25-50%)",1,0
+"46th","Minor (10-25%)",2,0
+"46th","No Damage",78,0
+"Maria","Destroyed (>50%)",4,0
+"Quail","Affected (>0-10%)",9,0
+"Quail","Destroyed (>50%)",5,0
+"Quail","Minor (10-25%)",3,0
+"Quail","No Damage",42,0
+"Grant","Major (25-50%)",2,0
+"Avila","Affected (>0-10%)",1,0
+"Nelson","Destroyed (>50%)",3,0
+"Nelson","Minor (10-25%)",1,0
+"Nelson","No Damage",10,0
+"Brownell","Destroyed (>50%)",2,0
+"Montaire","Minor (10-25%)",1,0
+"Crews","Destroyed (>50%)",4,0
+"Robinson","Affected (>0-10%)",1,0
+"Robinson","Destroyed (>50%)",1,0
+"Robinson","No Damage",1,0
+"Hog","Destroyed (>50%)",2,0
+"Gold","Destroyed (>50%)",13,0
+"Gold","Major (25-50%)",1,0
+"Gold","Minor (10-25%)",4,0
+"Gold","No Damage",16,0
+"Coyote ","Destroyed (>50%)",1,0
+"Coyote ","No Damage",3,0
+"Branch","Destroyed (>50%)",8,0
+"Apple","Destroyed (>50%)",13,0
+"Apple","Inaccessible",1,0
+"Apple","Major (25-50%)",3,0
+"Apple","Minor (10-25%)",5,0
+"Apple","No Damage",92,0
+"Pond","Affected (>0-10%)",1,0
+"Pond","Destroyed (>50%)",4,0
+"Stagecoach","Affected (>0-10%)",3,0
+"Stagecoach","Destroyed (>50%)",31,0
+"Stagecoach","Minor (10-25%)",1,0
+"Stagecoach","No Damage",121,0
+"Lake","Affected (>0-10%)",4,0
+"Lake","Destroyed (>50%)",40,0
+"Lake","Major (25-50%)",3,0
+"Lake","Minor (10-25%)",4,0
+"BEU Lightning Cmplx","Affected (>0-10%)",14,0
+"BEU Lightning Cmplx","Destroyed (>50%)",103,0
+"BEU Lightning Cmplx","Major (25-50%)",3,0
+"BEU Lightning Cmplx","Minor (10-25%)",3,0
+"BEU Lightning Cmplx","No Damage",466,0
+"CZU Lightning Cmplx","Affected (>0-10%)",105,0
+"CZU Lightning Cmplx","Destroyed (>50%)",1490,0
+"CZU Lightning Cmplx","Inaccessible",58,0
+"CZU Lightning Cmplx","Major (25-50%)",11,0
+"CZU Lightning Cmplx","Minor (10-25%)",24,0
+"CZU Lightning Cmplx","No Damage",3132,0
+"LNU Lightning Cmplx","Affected (>0-10%)",174,0
+"LNU Lightning Cmplx","Destroyed (>50%)",1491,0
+"LNU Lightning Cmplx","Inaccessible",11,0
+"LNU Lightning Cmplx","Major (25-50%)",22,0
+"LNU Lightning Cmplx","Minor (10-25%)",36,0
+"LNU Lightning Cmplx","No Damage",3387,0
+"August Complex","Affected (>0-10%)",4,0
+"August Complex","Inaccessible",1,0
+"August Complex","Major (25-50%)",2,0
+"Jones","Destroyed (>50%)",18,0
+"Jones","Minor (10-25%)",3,0
+"Jones","No Damage",15,0
+"August Complex","Destroyed (>50%)",89,0
+"August Complex","Minor (10-25%)",4,0
+"August Complex","No Damage",257,0
+"SCU Lightning Cmplx","Affected (>0-10%)",15,0
+"SCU Lightning Cmplx","Destroyed (>50%)",225,0
+"SCU Lightning Cmplx","Inaccessible",76,0
+"SCU Lightning Cmplx","Major (25-50%)",4,0
+"SCU Lightning Cmplx","Minor (10-25%)",7,0
+"SCU Lightning Cmplx","No Damage",627,0
+"Sheep","Affected (>0-10%)",2,0
+"Sheep","Destroyed (>50%)",26,0
+"Sheep","No Damage",102,0
+"SQF Complex","Affected (>0-10%)",9,0
+"SQF Complex","Destroyed (>50%)",232,0
+"SQF Complex","Inaccessible",5,0
+"SQF Complex","Major (25-50%)",1,0
+"SQF Complex","Minor (10-25%)",2,0
+"SQF Complex","No Damage",554,0
+"Homestead","Destroyed (>50%)",1,0
+"Willow","Affected (>0-10%)",5,0
+"Willow","Destroyed (>50%)",12,0
+"Willow","No Damage",9,0
+"Creek","Affected (>0-10%)",76,0
+"Creek","Destroyed (>50%)",1010,0
+"Creek","Major (25-50%)",19,0
+"Creek","Minor (10-25%)",39,0
+"Creek","No Damage",2323,0
+"El Dorado","Destroyed (>50%)",14,0
+"El Dorado","Minor (10-25%)",2,0
+"Valley","Affected (>0-10%)",38,1
+"Valley","Destroyed (>50%)",2049,36
+"Valley","Inaccessible",15,0
+"Valley","Major (25-50%)",15,1
+"Valley","Minor (10-25%)",20,5
+"Valley","No Damage",375,0
+"Bobcat","Affected (>0-10%)",35,0
+"Bobcat","Destroyed (>50%)",169,0
+"Bobcat","Major (25-50%)",5,0
+"Bobcat","Minor (10-25%)",7,0
+"Bobcat","No Damage",12,0
+"Oak","Affected (>0-10%)",7,0
+"Oak","Destroyed (>50%)",250,0
+"Oak","No Damage",500,0
+"Slater","Affected (>0-10%)",13,0
+"Slater","Destroyed (>50%)",353,0
+"Slater","Inaccessible",14,0
+"Slater","Major (25-50%)",7,0
+"Slater","Minor (10-25%)",4,0
+"Slater","No Damage",58,0
+"Dorvel","Destroyed (>50%)",4,0
+"Dorvel","No Damage",3,0
+"North Complex","Affected (>0-10%)",94,0
+"North Complex","Destroyed (>50%)",2352,0
+"North Complex","Inaccessible",1,0
+"North Complex","Major (25-50%)",10,0
+"North Complex","Minor (10-25%)",15,0
+"North Complex","No Damage",733,0
+"Argyle","Destroyed (>50%)",1,0
+"Glass","Affected (>0-10%)",229,0
+"Glass","Destroyed (>50%)",1528,0
+"Glass","Inaccessible",5,0
+"Glass","Major (25-50%)",13,0
+"Glass","Minor (10-25%)",40,0
+"Glass","No Damage",2952,0
+"Zogg","Affected (>0-10%)",24,0
+"Zogg","Destroyed (>50%)",204,0
+"Zogg","Inaccessible",11,0
+"Zogg","Major (25-50%)",1,0
+"Zogg","Minor (10-25%)",2,0
+"Zogg","No Damage",323,0
+"Cameron","Affected (>0-10%)",1,0
+"Cameron","Destroyed (>50%)",2,0
+"Dersch ","Destroyed (>50%)",3,0
+"Blue Ridge","Affected (>0-10%)",10,0
+"Blue Ridge","Destroyed (>50%)",1,0
+"Blue Ridge","Minor (10-25%)",2,0
+"Blue Ridge","No Damage",313,0
+"Silverado","Affected (>0-10%)",7,0
+"Silverado","Destroyed (>50%)",5,0
+"Silverado","Major (25-50%)",1,0
+"Silverado","Minor (10-25%)",3,0
+"Silverado","No Damage",1298,0
+"Laura 2","Affected (>0-10%)",3,0
+"Laura 2","Destroyed (>50%)",42,0
+"Laura 2","Major (25-50%)",2,0
+"Laura 2","Minor (10-25%)",2,0
+"Laura 2","No Damage",18,0
+"Bond","Affected (>0-10%)",17,0
+"Bond","Destroyed (>50%)",31,0
+"Bond","Inaccessible",6,0
+"Bond","Major (25-50%)",3,0
+"Bond","Minor (10-25%)",1,0
+"Bond","No Damage",513,0
+"Southern","Destroyed (>50%)",3,0
+"Dutcher","Destroyed (>50%)",1,0
+"Graham","Destroyed (>50%)",3,0
+"Graham","Major (25-50%)",1,0
+"Graham","No Damage",2,0
+"Pine Flat","Major (25-50%)",1,0
+"Plumas","Destroyed (>50%)",1,0
+"Peach","Destroyed (>50%)",1,0
+"Intanko","Destroyed (>50%)",2,0
+"Mallard","Affected (>0-10%)",1,0
+"Mallard","Destroyed (>50%)",5,0
+"Mallard","No Damage",1,0
+"Flats","Affected (>0-10%)",1,0
+"Flats","Destroyed (>50%)",3,0
+"Lava","Affected (>0-10%)",1,0
+"Lava","Destroyed (>50%)",23,0
+"Lava","Inaccessible",104,0
+"Lava","Minor (10-25%)",1,0
+"Lava","No Damage",16,0
+"Steins","Destroyed (>50%)",4,0
+"Steins","Minor (10-25%)",2,0
+"Tenant","Affected (>0-10%)",1,0
+"Tenant","Destroyed (>50%)",9,0
+"Tenant","No Damage",2,0
+"Salt","Affected (>0-10%)",4,0
+"Salt","Destroyed (>50%)",45,0
+"Salt","No Damage",48,0
+"Beckwourth","Affected (>0-10%)",11,0
+"Beckwourth","Destroyed (>50%)",148,0
+"Beckwourth","Inaccessible",6,0
+"Beckwourth","Major (25-50%)",4,0
+"Beckwourth","Minor (10-25%)",8,0
+"Beckwourth","No Damage",337,0
+"Tamarack","Affected (>0-10%)",1,0
+"Tamarack","Destroyed (>50%)",15,0
+"Tamarack","Inaccessible",1,0
+"Tamarack","Minor (10-25%)",1,0
+"Tamarack","No Damage",378,0
+"Broiler","Destroyed (>50%)",6,0
+"Broiler","Minor (10-25%)",1,0
+"River","Inaccessible",2,0
+"River","No Damage",313,0
+"Creekside","Destroyed (>50%)",2,0
+"Dixie","Affected (>0-10%)",69,0
+"Dixie","Destroyed (>50%)",1311,0
+"Dixie","Inaccessible",10,0
+"Dixie","Major (25-50%)",11,0
+"Dixie","Minor (10-25%)",14,0
+"Dixie","No Damage",2426,0
+"Bart","Destroyed (>50%)",1,0
+"McFarland","Affected (>0-10%)",1,0
+"McFarland","Destroyed (>50%)",46,0
+"McFarland","Inaccessible",2,0
+"McFarland","No Damage",89,0
+"Antelope","Affected (>0-10%)",4,0
+"Antelope","Destroyed (>50%)",20,0
+"Antelope","No Damage",107,0
+"River","Major (25-50%)",3,0
+"Monument","Affected (>0-10%)",1,0
+"Monument","Destroyed (>50%)",28,0
+"Monument","Inaccessible",1,0
+"Monument","Minor (10-25%)",1,0
+"Monument","No Damage",259,0
+"Glen","Destroyed (>50%)",10,0
+"Glen","No Damage",7,0
+"Caldor","Affected (>0-10%)",56,0
+"Caldor","Destroyed (>50%)",1005,0
+"Caldor","Inaccessible",2,0
+"Caldor","Major (25-50%)",7,0
+"Caldor","Minor (10-25%)",18,0
+"Caldor","No Damage",3356,0
+"Cache","Affected (>0-10%)",6,0
+"Cache","Destroyed (>50%)",60,0
+"Cache","Inaccessible",1,0
+"Cache","Minor (10-25%)",2,0
+"Cache","No Damage",24,0
+"French","Affected (>0-10%)",6,0
+"French","Destroyed (>50%)",60,0
+"French","Major (25-50%)",2,0
+"French","Minor (10-25%)",5,0
+"French","No Damage",533,0
+"Rock","Destroyed (>50%)",7,0
+"Rock","Major (25-50%)",1,0
+"Rock","No Damage",3,0
+"Washington ","Affected (>0-10%)",1,0
+"Washington ","Destroyed (>50%)",18,0
+"Windy","Destroyed (>50%)",21,0
+"Windy","No Damage",196,0
+"Hopkins","Affected (>0-10%)",4,0
+"Hopkins","Destroyed (>50%)",46,0
+"Hopkins","Major (25-50%)",1,0
+"Hopkins","No Damage",32,0
+"Fawn","Affected (>0-10%)",22,0
+"Fawn","Destroyed (>50%)",185,0
+"Fawn","Inaccessible",2,0
+"Fawn","Major (25-50%)",2,0
+"Fawn","Minor (10-25%)",2,0
+"Fawn","No Damage",517,0
+"Alisal","Affected (>0-10%)",1,0
+"Alisal","Destroyed (>50%)",12,0
+"Alisal","Inaccessible",1,0
+"Alisal","No Damage",169,0
+"View","Destroyed (>50%)",1,0
+"Colorado","Affected (>0-10%)",1,0
+"Colorado","Destroyed (>50%)",1,0
+"Colorado","No Damage",13,0
+"Emerald","No Damage",16,0
+"Vista","Destroyed (>50%)",2,0
+"Coastal","Affected (>0-10%)",9,0
+"Coastal","Destroyed (>50%)",20,0
+"Coastal","Minor (10-25%)",2,0
+"Coastal","No Damage",102,0
+"Nelda","Destroyed (>50%)",3,0
+"Nelda","Major (25-50%)",1,0
+"Rancho","Affected (>0-10%)",4,0
+"Rancho","Destroyed (>50%)",8,0
+"Rancho","No Damage",26,0
+"Rices","Destroyed (>50%)",4,0
+"Rices","No Damage",7,0
+"Sandra","Destroyed (>50%)",5,0
+"Grant","Affected (>0-10%)",1,0
+"Grant","Minor (10-25%)",1,0
+"Grant","No Damage",2,0
+"Peter","Affected (>0-10%)",2,0
+"Peter","Destroyed (>50%)",16,0
+"Peter","Major (25-50%)",2,0
+"Peter","No Damage",50,0
+"Rainbow","Destroyed (>50%)",2,0
+"Rainbow","Minor (10-25%)",1,0
+"Rainbow","No Damage",10,0
+"Agua","Destroyed (>50%)",3,0
+"Agua","No Damage",17,0
+"Winding","Destroyed (>50%)",4,0
+"Winding","Major (25-50%)",1,0
+"Winding","Minor (10-25%)",1,0
+"Winding","No Damage",9,0
+"Anzar","Destroyed (>50%)",2,0
+"Anzar","No Damage",25,0
+"Fiddletown","Affected (>0-10%)",1,0
+"Fiddletown","Destroyed (>50%)",1,0
+"Fiddletown","No Damage",1,0
+"Oak","Major (25-50%)",2,0
+"Oak","Minor (10-25%)",2,0
+"McKinney","Affected (>0-10%)",6,0
+"McKinney","Destroyed (>50%)",185,0
+"McKinney","Minor (10-25%)",5,0
+"McKinney","No Damage",161,0
+"Pebble","Destroyed (>50%)",6,0
+"Pebble","No Damage",6,0
+"Springs","Destroyed (>50%)",2,0
+"Springs","No Damage",4,0
+"McLane","Destroyed (>50%)",1,0
+"Marshall","Destroyed (>50%)",2,0
+"Still","Destroyed (>50%)",1,0
+"Border 32","Affected (>0-10%)",3,0
+"Border 32","Destroyed (>50%)",30,0
+"Border 32","Major (25-50%)",3,0
+"Border 32","Minor (10-25%)",2,0
+"Border 32","No Damage",102,0
+"Woods","Destroyed (>50%)",1,0
+"Mill","Affected (>0-10%)",19,0
+"Mill","Destroyed (>50%)",118,0
+"Mill","Major (25-50%)",2,0
+"Mill","Minor (10-25%)",5,0
+"Mill","No Damage",165,0
+"Fairview","Affected (>0-10%)",7,0
+"Fairview","Destroyed (>50%)",37,0
+"Fairview","Minor (10-25%)",1,0
+"Fairview","No Damage",321,0
+"Mosquito","Affected (>0-10%)",12,0
+"Mosquito","Destroyed (>50%)",78,0
+"Mosquito","Inaccessible",1,0
+"Mosquito","Major (25-50%)",1,0
+"Mosquito","Minor (10-25%)",1,0
+"Mosquito","No Damage",574,0
+"Fork","Affected (>0-10%)",1,0
+"Fork","Destroyed (>50%)",43,0
+"Fork","No Damage",89,0
+"Flowers","Destroyed (>50%)",1,0
+"Harney","No Damage",1,0
+"Riata","Affected (>0-10%)",2,0
+"Riata","Inaccessible",1,0
+"Oliveira","No Damage",2,0
+"Ford","No Damage",2,0
+"Whisky","No Damage",9,0
+"John","No Damage",9,0
+"John 2","No Damage",8,0
+"Milton","No Damage",1,0
+"Reche","Destroyed (>50%)",1,0
+"Usher","Inaccessible",1,0
+"Usher","No Damage",2,0
+"Long","Destroyed (>50%)",3,0
+"Bonny","Destroyed (>50%)",3,0
+"Bonny","No Damage",14,0
+"Gray","Affected (>0-10%)",3,0
+"Gray","Destroyed (>50%)",2,0
+"Gray","Minor (10-25%)",1,0
+"Gray","No Damage",15,0
+"Leonard","No Damage",2,0
+"Coyote","Affected (>0-10%)",1,0
+"Coyote","Destroyed (>50%)",11,0
+"Coyote","No Damage",10,0
+"Happy Camp Complex","Affected (>0-10%)",2,0
+"Happy Camp Complex","Destroyed (>50%)",10,0
+"Happy Camp Complex","Major (25-50%)",1,0
+"Happy Camp Complex","No Damage",16,0
+"Andrew","Destroyed (>50%)",1,0
+"Andrew","No Damage",2,0
+"Ruby","Affected (>0-10%)",2,0
+"Ruby","Major (25-50%)",1,0
+"Ruby","Minor (10-25%)",1,0
+"Ruby","No Damage",19,0
+"Hesperia","Destroyed (>50%)",1,0
+"King","No Damage",1,0
+"Carmel","Destroyed (>50%)",1,0
+"Highland","Affected (>0-10%)",6,0
+"Highland","Destroyed (>50%)",20,0
+"Highland","No Damage",41,0
+"Quarry","Destroyed (>50%)",3,0
+"Quarry","No Damage",7,0
+"Cartago","Destroyed (>50%)",4,0
+"Patricia","Minor (10-25%)",1,0
+"Corral","Destroyed (>50%)",2,0
+"Corral","Major (25-50%)",1,0
+"Corral","Minor (10-25%)",1,0
+"Junes","Destroyed (>50%)",2,0
+"Junes","Major (25-50%)",1,0
+"Junes","No Damage",4,0
+"Post","Affected (>0-10%)",1,0
+"Post","Destroyed (>50%)",3,0
+"Post","Inaccessible",2,0
+"Post","Major (25-50%)",3,0
+"Post","Minor (10-25%)",2,0
+"Post","No Damage",43,0
+"Rocky","No Damage",3,0
+"Point","Affected (>0-10%)",3,0
+"Point","Destroyed (>50%)",10,0
+"Point","Major (25-50%)",1,0
+"Point","No Damage",46,0
+"Aero","Destroyed (>50%)",3,0
+"Aero","Minor (10-25%)",1,0
+"Aero","No Damage",86,0
+"Sites","No Damage",52,0
+"Gulch","No Damage",5,0
+"Apache","Affected (>0-10%)",5,0
+"Apache","Destroyed (>50%)",17,0
+"Apache","Inaccessible",2,0
+"Apache","Major (25-50%)",1,0
+"Apache","No Damage",56,0
+"FKU June Lightning","Destroyed (>50%)",1,0
+"FKU June Lightning","No Damage",36,0
+"Truitman","Affected (>0-10%)",1,0
+"Truitman","Destroyed (>50%)",1,0
+"Truitman","No Damage",2,0
+"Thompson","Affected (>0-10%)",6,0
+"Thompson","Destroyed (>50%)",26,0
+"Thompson","Major (25-50%)",1,0
+"Thompson","Minor (10-25%)",1,0
+"Thompson","No Damage",151,0
+"Deer","Destroyed (>50%)",2,0
+"Deer","No Damage",3,0
+"Olinda","Destroyed (>50%)",1,0
+"Olinda","Minor (10-25%)",1,0
+"Olinda","No Damage",2,0
+"Vestal","Destroyed (>50%)",6,0
+"Pay","Affected (>0-10%)",6,0
+"Pay","Destroyed (>50%)",1,0
+"Pay","Major (25-50%)",3,0
+"Pay","Minor (10-25%)",1,0
+"Pay","No Damage",38,0
+"Bogus","Major (25-50%)",1,0
+"Bogus","Destroyed (>50%)",4,0
+"Railbridge","Destroyed (>50%)",9,0
+"Railbridge","No Damage",16,0
+"Hill","No Damage",15,0
+"White","Destroyed (>50%)",2,0
+"White","Major (25-50%)",1,0
+"White","Minor (10-25%)",1,0
+"White","No Damage",18,0
+"Liberty","Affected (>0-10%)",1,0
+"Liberty","Destroyed (>50%)",6,0
+"Liberty","Inaccessible",7,0
+"Liberty","No Damage",9,0
+"Circle","Inaccessible",1,0
+"Circle","No Damage",6,0
+"Borel","Affected (>0-10%)",20,0
+"Borel","Destroyed (>50%)",223,0
+"Borel","Inaccessible",2,0
+"Borel","Major (25-50%)",3,0
+"Borel","Minor (10-25%)",6,0
+"Borel","No Damage",253,0
+"Bullion","Destroyed (>50%)",3,0
+"Bullion","No Damage",18,0
+"Circle","Destroyed (>50%)",5,0
+"Park","Affected (>0-10%)",35,0
+"Park","Destroyed (>50%)",713,0
+"Park","Inaccessible",10,0
+"Park","Major (25-50%)",10,0
+"Park","Minor (10-25%)",12,0
+"Park","No Damage",1322,0
+"Montero","Affected (>0-10%)",1,0
+"Montero","No Damage",7,0
+"Nixon","Affected (>0-10%)",3,0
+"Nixon","Destroyed (>50%)",40,0
+"Nixon","Inaccessible",5,0
+"Nixon","Major (25-50%)",1,0
+"Nixon","Minor (10-25%)",1,0
+"Nixon","No Damage",69,0
+"Sun","No Damage",2,0
+"Pedro","Destroyed (>50%)",2,0
+"Pedro","Inaccessible",1,0
+"Pedro","No Damage",33,0
+"Star","No Damage",2,0
+"Coffee Pot","No Damage",1,0
+"Coffee Pot","Destroyed (>50%)",1,0
+"Purple","Destroyed (>50%)",1,0
+"Purple","No Damage",1,0
+"Canyon","No Damage",130,0
+"Lower","Destroyed (>50%)",2,0
+"Lower","Inaccessible",1,0
+"Lower","No Damage",6,0
+"Boone","No Damage",78,0
+"Line","Affected (>0-10%)",3,0
+"Line","Destroyed (>50%)",2,0
+"Line","Major (25-50%)",1,0
+"Line","Minor (10-25%)",1,0
+"Line","No Damage",333,0
+"Bridge","Affected (>0-10%)",13,0
+"Bridge","Destroyed (>50%)",81,0
+"Bridge","Inaccessible",24,0
+"Bridge","Major (25-50%)",3,0
+"Bridge","Minor (10-25%)",1,0
+"Bridge","No Damage",803,0
+"Airport","Affected (>0-10%)",13,0
+"Airport","Destroyed (>50%)",160,0
+"Airport","Major (25-50%)",8,0
+"Airport","Minor (10-25%)",13,0
+"Airport","No Damage",185,0
+"Posta","Destroyed (>50%)",4,0
+"Posta","Major (25-50%)",1,0
+"Horseshoe","Affected (>0-10%)",2,0
+"Horseshoe","Destroyed (>50%)",8,0
+"Horseshoe","Minor (10-25%)",1,0
+"Horseshoe","No Damage",3,0
+"Mountain","Inaccessible",12,0
+"Franklin","Affected (>0-10%)",16,0
+"Franklin","Destroyed (>50%)",20,0
+"Franklin","Inaccessible",10,0
+"Franklin","Major (25-50%)",5,0
+"Franklin","Minor (10-25%)",7,0
+"Franklin","No Damage",680,0
+"Eaton","Affected (>0-10%)",858,0
+"Eaton","Destroyed (>50%)",9419,0
+"Eaton","Inaccessible",40,0
+"Eaton","Major (25-50%)",70,0
+"Eaton","Minor (10-25%)",148,0
+"Eaton","No Damage",7893,0
+"Palisades","Affected (>0-10%)",732,0
+"Palisades","Destroyed (>50%)",6845,0
+"Palisades","Inaccessible",56,0
+"Palisades","Major (25-50%)",72,0
+"Palisades","Minor (10-25%)",171,0
+"Palisades","No Damage",4261,0
+"Lilac","Inaccessible",2,0
+"Lilac","No Damage",21,0
+"Pioneer","No Damage",1,0
+"Baker","No Damage",1,0
+"Grade","No Damage",2,0
+"Matlock","Affected (>0-10%)",1,0
+"Matlock","Destroyed (>50%)",1,0
+"Bucks","No Damage",4,0
+"Academy","Destroyed (>50%)",1,0
+"Academy","No Damage",6,0
+"Quarter Horse","Destroyed (>50%)",1,0
+"Quarter Horse","No Damage",2,0
+"Gunsmoke","No Damage",7,0
+"Kincaid","No Damage",3,0
+"Upland","No Damage",1,0
+"Oak Valley ","No Damage",1,0
+"Quartz","No Damage",3,0
+"Ranch","No Damage",65,0
+"Clear","No Damage",1,0
+"Juniper ","Destroyed (>50%)",2,0
+"Juniper ","No Damage",6,0
+"Stoney","Destroyed (>50%)",2,0
+"Frost","Destroyed (>50%)",1,0
+"Frost","No Damage",10,0
+"Henderson","Destroyed (>50%)",1,0
+"Henderson","No Damage",2,0
+"99","No Damage",1,0
+"East Side","Major (25-50%)",1,0
+"East Side","No Damage",6,0
+"Krueger","No Damage",2,0
+"Rector","Destroyed (>50%)",2,0
+"Rector","No Damage",12,0
+"Chevy","Affected (>0-10%)",1,0
+"Chevy","No Damage",5,0
+"Hilton","No Damage",1,0
+"Stage Coach","No Damage",3,0
+"Little","No Damage",11,0
+"Feather","No Damage",7,0
+"Evergreen","Destroyed (>50%)",2,0
+"Evergreen","No Damage",10,0
+"Ranch","Inaccessible",3,0
+"1-6 Debi","No Damage",8,0
+"Booker","No Damage",1,0
+"Firestone","No Damage",5,0
+"Rocky ","No Damage",3,0
+"Dogs","No Damage",2,0
+"Dibble","No Damage",1,0
+"Rush","No Damage",1,0
+"Saddle","No Damage",1,0
+"Bonanza","Destroyed (>50%)",3,0
+"Bonanza","Major (25-50%)",1,0
+"Bonanza","No Damage",20,0
+"Band","Destroyed (>50%)",6,0
+"Band","Minor (10-25%)",1,0
+"Band","No Damage",5,0
+"Meacham","No Damage",24,0
+"Stampfli","No Damage",2,0
+"Ruth","Destroyed (>50%)",7,0
+"Ruth","Major (25-50%)",1,0
+"Ruth","No Damage",11,0
+"Bug","No Damage",2,0
+"Driver","Inaccessible",2,0
+"Driver","No Damage",10,0
+"Osborn","No Damage",1,0
+"Montana","Major (25-50%)",1,0
+"Montana","No Damage",1,0
+"Mecca ","Affected (>0-10%)",1,0
+"Shine","No Damage",4,0
+"Red","Inaccessible",1,0
+"Red","No Damage",1,0
+"Dustin","Destroyed (>50%)",3,0
+"Lake","No Damage",42,0
+"Schulmeyer","No Damage",10,0
+"McCauley","Affected (>0-10%)",1,0
+"McCauley","Destroyed (>50%)",1,0
+"McCauley","No Damage",4,0
+"Mindy","Destroyed (>50%)",5,0
+"Mindy","Inaccessible",12,0
+"Mindy","No Damage",23,0
+"Wolf","Destroyed (>50%)",2,0
+"Wolf","Inaccessible",4,0
+"Wolf","Major (25-50%)",1,0
+"Wolf","No Damage",15,0
+"James","Destroyed (>50%)",1,0
+"James","No Damage",9,0
+"Juniper","Destroyed (>50%)",2,0
+"Juniper","Inaccessible",14,0
+"Juniper","No Damage",43,0
+"Perch","No Damage",7,0
+"1 - 1 Mountain","No Damage",7,0
+"Mad","Minor (10-25%)",1,0
+"Mad","No Damage",3,0
+"Peak","No Damage",3,0
+"Eagle","No Damage",1,0
+"Grove","Destroyed (>50%)",4,0
+"Grove","Minor (10-25%)",2,0
+"Grove","No Damage",7,0
+"Rocky Crest","No Damage",1,0
+"Kidder","No Damage",1,0
+"Ruth","Affected (>0-10%)",2,0
+"Ruth","Inaccessible",1,0
+"Ruth","Minor (10-25%)",1,0
+"Lauer ","No Damage",1,0
+"Corning","No Damage",4,0
+"Stoney","Minor (10-25%)",1,0
+"Stoney","No Damage",2,0
+"Pickup","No Damage",14,0
+"Rawson","No Damage",2,0
+"Shirley","Destroyed (>50%)",2,0
+"Shirley","No Damage",1,0
+"Trower","No Damage",1,0
+"Osprey","No Damage",1,0
+"Bradford","Destroyed (>50%)",1,0
+"Bradford","Inaccessible",2,0
+"Bradford","No Damage",13,0
+"Dale","No Damage",3,0
+"Everett","Inaccessible",5,0
+"Everett","No Damage",1,0
+"Enterprise Bridge ","Inaccessible",2,0
+"Alta","Affected (>0-10%)",2,0
+"Alta","Destroyed (>50%)",1,0
+"Alta","No Damage",4,0
+"Trap","No Damage",7,0
+"Bass","No Damage",5,0
+"Island","No Damage",6,0
+"Orange","Inaccessible",1,0
+"Orange","Minor (10-25%)",2,0
+"Orange","No Damage",16,0
+"Volcano","No Damage",5,0
+"Boneyard","Destroyed (>50%)",2,0
+"Boneyard","No Damage",37,0
+"Shawn","Destroyed (>50%)",1,0
+"Shawn","No Damage",8,0
+"1-4","No Damage",17,0
+"4-8","No Damage",1,0
+"Lassen","Destroyed (>50%)",1,0
+"Lassen","No Damage",7,0
+"Fremont","Destroyed (>50%)",2,0
+"Gifford","Destroyed (>50%)",4,0
+"Gifford","Minor (10-25%)",1,0
+"Gifford","No Damage",16,0
+"Dusty","No Damage",2,0
+"Lake","Inaccessible",3,0
+"Rosa","Destroyed (>50%)",2,0
+"Rosa","Inaccessible",1,0
+"Rosa","No Damage",6,0
+"Triangle","No Damage",1,0
+"Canyon","Inaccessible",4,0
+"Tiger","No Damage",8,0
+"Arden","Affected (>0-10%)",2,0
+"Arden","Destroyed (>50%)",2,0
+"Arden","Inaccessible",1,0
+"Arden","Minor (10-25%)",1,0
+"Arden","No Damage",19,0
+"Clark","No Damage",1,0
+"Deon","No Damage",9,0
+"Utah","Affected (>0-10%)",3,0
+"Utah","Destroyed (>50%)",1,0
+"Heather","Destroyed (>50%)",1,0
+"Heather","Minor (10-25%)",1,0
+"Heather","No Damage",3,0
+"Preston","No Damage",1,0
+"Hadley","Destroyed (>50%)",1,0
+"Hadley","No Damage",3,0
+"Rooster","No Damage",2,0
+"Pickett","Destroyed (>50%)",5,0
+"Pickett","Inaccessible",1,0
+"Pickett","No Damage",35,0
+"Seco","Minor (10-25%)",1,0
+"Seco","No Damage",2,0
+"Garnet","No Damage",18,0
+"Potters","No Damage",8,0
+"18-1","No Damage",3,0
+"MMU LightningComplex","No Damage",3,0
+"TCU Complex","Affected (>0-10%)",5,0
+"TCU Complex","Destroyed (>50%)",95,0
+"TCU Complex","Major (25-50%)",1,0
+"TCU Complex","Minor (10-25%)",1,0
+"TCU Complex","No Damage",176,0
+"Branding","No Damage",2,0
+"Wilderness","No Damage",1,0
+"Coches 2","Affected (>0-10%)",2,0
+"Coches 2","Destroyed (>50%)",9,0
+"Coches 2","Major (25-50%)",1,0
+"Coches 2","Minor (10-25%)",2,0
+"Coches 2","No Damage",129,0
+"Kirkwood","No Damage",5,0
+"Thunder","No Damage",2,0
+"Roberts","No Damage",4,0
+"Hummingbird","No Damage",6,0
+"Citrus","No Damage",1,0
+"Clearwater","No Damage",1,0
+"Sandia","No Damage",2,0
+"Winters","No Damage",2,0
+"Murray","No Damage",2,0
+"Totokon","No Damage",4,0
+"Stallion","No Damage",3,0
+"Stallion ","No Damage",2,0
+"Gyle","No Damage",4,0
+"The Pines ","No Damage",1,0
+"Clifton","No Damage",13,0
+"Meacham ","No Damage",5,0
+"Blake","No Damage",11,0
+"Blake ","No Damage",5,0
+"Lanford","No Damage",4,0
+"Carol","No Damage",3,0
+"Mart","No Damage",2,0
+"Conner","No Damage",6,0
+"Hodson","No Damage",1,0
+"Amorosa","No Damage",1,0
+"Amorosa ","No Damage",1,0
+"Pack","Affected (>0-10%)",4,0
+"Pack","Destroyed (>50%)",30,0
+"Pack","Minor (10-25%)",2,0
+"Pack","No Damage",14,0
+"Camanche","Destroyed (>50%)",1,0
+"Camanche","No Damage",2,0

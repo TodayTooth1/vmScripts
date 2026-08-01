@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "rawStructuredata_CalFire",
+            "database": "${workspaceFolder:vmScripts}/data/raw/rawdata_CA.gpkg"
+        }
+    ]
+}
