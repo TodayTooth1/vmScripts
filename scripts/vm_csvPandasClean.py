@@ -2,10 +2,10 @@ from pathlib import Path
 import pandas as pd
 import numpy as np
 
-base_Dir = Path.cwd().parent #Represents base directory
+base_Dir = Path(__file__).parent.parent #Represents base directory
 csv_path = base_Dir / "data" / "raw" / "rawdata_CA.csv" #Represents desired csv file
 
-raw_df = pd.read_csv(csv_path)
+raw_df = pd.read_csv(csv_path, low_memory=False)
 df = raw_df.copy()
 
 #Normalize column names
@@ -19,6 +19,7 @@ df.columns = (
     .str.replace(">", "gt", regex=False)
     .str.replace("<", "lt", regex=False)
     .str.replace("&", "and", regex=False)
+    .str.replace(r"[.,]", "", regex=True)
     .str.replace(r"[\s\-\/]+", "_", regex=True)
     .str.replace(r"_+", "_", regex=True)
     .str.strip("_")
@@ -33,8 +34,8 @@ drop_cols = [
 
     "street_number",
     "street_name",
-    "street_type_(e.g._road_drive_lane_etc.)",
-    "street_suffix_(e.g._apt_23_blding_c)",
+    "street_type_eg_road_drive_lane_etc",
+    "street_suffix_eg_apt_23_blding_c",
 
     "state",
     "zip_code",
@@ -45,40 +46,42 @@ drop_cols = [
     "battalion",
 
     "incident_start_date",
+    "incident_name",
+    "incident_number_eg_caaeu_123456",
 
     "if_affected_where_did_fire_start",
     "if_affected_what_started_fire",
     "structure_defense_actions_taken",
 
-    "num_units_in_structure_(if_multi_unit)",
-    "num_of_damaged_outbuildings_lt120_sqft",
-    "num_of_non_damaged_outbuildings_lt120_sqft",
-    "num_of_damaged_or_destroyed_cars_on_property",
+    "units_in_structure_if_multi_unit",
+    "of_damaged_outbuildings_lt_120_sqft",
+    "of_non_damaged_outbuildings_lt_120_sqft",
+    "of_damaged_or_destroyed_cars_on_property",
 
     "distance_propane_tank_to_structure",
     "distance_residence_to_utility_misc_structure_gt_120_sqft",
 
-    "fire_name_(secondary)",
-    "apn_(parcel)",
-    "site_address_(parcel)",
+    "fire_name_secondary",
+    "apn_parcel",
+    "site_address_parcel",
 
-    "year_built_(parcel)",
-    "assessed_improved_value_(parcel)",
+    "year_built_parcel",
+    "assessed_improved_value_parcel",
 
     "x",
     "y"
 ]
 
-df = df.drop(columns=drop_cols, errors="ignore")
+df = df.drop(columns=drop_cols)
 
 #Standardize missing values
 df = df.replace(
-    ["Unknown", "N/A", "NA", "", "null", "NULL"], 
+    ["N/A", "NA", "", "null", "NULL"], 
     np.nan
 )
 
 #Clean categorical columns
-cat_cols = df.select_dtypes(include="object").columns
+cat_cols = df.select_dtypes(include=["object", "string"]).columns
 
 for col in cat_cols:
     df[col]= (
@@ -90,6 +93,15 @@ for col in cat_cols:
 clean_df = df.copy()
 output_path = base_Dir / "data" / "processed" / "cleanedData_CA.csv"
 output_path.parent.mkdir(parents=True, exist_ok=True)
+
+print("\nFinal dataset shape:")
+print(clean_df.shape)
+
+print("\nFinal columns:")
+print(clean_df.columns.tolist())
+
+print("\nMissing values:")
+print(clean_df.isna().sum())
 
 clean_df.to_csv(output_path, index=False)
 
