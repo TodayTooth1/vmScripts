@@ -6,6 +6,9 @@ DEM, Slope, Aspect
 **Dataset Citation**: European Space Agency (2024). _Copernicus Global Digital Elevation Model_. Distributed by OpenTopography. https://doi.org/10.5069/G9028PQB. Accessed 2026-06-11         
 **Use License**: © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved.
 
+CAL FIRE Damage Inspection Data Set
+https://data.ca.gov/dataset/cal-fire-damage-inspection-dins-data
+
 Parcels Data Source
 https://egis-lacounty.hub.arcgis.com/documents/baaf8251bfb94d3984fb58cb5fd93258/about
 
