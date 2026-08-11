@@ -6,6 +6,12 @@
             "driver": "SQLite",
             "name": "rawStructuredata_CalFire",
             "database": "${workspaceFolder:vmScripts}/data/raw/rawdata_CA.gpkg"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "rawdata_CA_0802upt",
+            "database": "${workspaceFolder:vmScripts}/data/raw/rawdata_CA_08.02.gpkg"
         }
     ]
 }

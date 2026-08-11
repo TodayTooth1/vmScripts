@@ -1,0 +1,6 @@
+SELECT
+    EAVES,
+    COUNT(*) AS count,
+    MIN(INCIDENTNAME) AS example_incident
+FROM POSTFIRE
+GROUP BY EAVES;
